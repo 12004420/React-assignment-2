@@ -1,3 +1,3 @@
-# Assignment Two
+# Assignment 2
 
-![React App - Google Chrome 2023-01-30 15-22-32](https://user-images.githubusercontent.com/82077595/215471195-d2e24747-19ee-4a37-a28f-2c125e33c2d7.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/82250898/215797403-5882bf3e-3f8b-4dab-aeb1-9956705737b9.gif)
